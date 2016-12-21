@@ -1,12 +1,12 @@
 # Hydration_Reminder
 Background Tasks
 
-IntentServices Implementation + SharedPreference + onSharedPreference
+- IntentServices Implementation + SharedPreference + onSharedPreference
 
-pendingIntent + Notification
+- pendingIntent + Notification
 
-Notification Add Actions
+- Notification Add Actions
 
-JobService + Firebase Job Dispatcher
+- JobService + Firebase Job Dispatcher
 	
-Dynamic Broadcast receiver + Sticky Intents
+- Dynamic Broadcast receiver + Sticky Intents
